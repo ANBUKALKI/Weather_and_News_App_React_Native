@@ -1,4 +1,4 @@
-# Weather_and_News_app_React_Native
+# Weather_and_News_App_React_Native
 
 A mobile application that displays weather information and news headlines with weather-based filtering, built with React Native and Redux Toolkit.
 
@@ -40,7 +40,7 @@ Location services
 ![Home Screen](assets/screenshots/HomeScreen-2.png)
 
 
-![Home Screen](assets/screenshots/SettingsScreen.png)
+![Settings Screen](assets/screenshots/SettingsScreen.png)
 
 
 # Installation
@@ -60,9 +60,9 @@ Android Studio/Xcode (for emulator/simulator)
 ## Clone the repository:
 
 ``` 
-git clone https://github.com/ANBUKALKI/Weather_and_News_app_React_Native.git
+git clone https://github.com/ANBUKALKI/Weather_and_News_App_React_Native.git
 
-cd Weather_and_News_app_React_Native
+cd Weather_and_News_App_React_Native
 ```
 
 ## Install dependencies:
