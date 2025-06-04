@@ -1,3 +1,107 @@
+# Weather_and_News_app_React_Native
+
+A mobile application that displays weather information and news headlines with weather-based filtering, built with React Native and Redux Toolkit.
+
+## Features
+### 🌦️ Real-time Weather Data
+
+Current weather conditions
+
+5-day forecast
+
+Temperature in Celsius/Fahrenheit
+
+Location-based weather
+
+### 📰 Personalized News Feed
+Latest headlines from multiple categories
+
+Weather-based news filtering:
+
+☀️ Hot weather → Fear-related news
+
+❄️ Cold weather → Depressing news
+
+🌤️ Cool weather → Happy/winning news
+
+### ⚙️ Customizable Settings
+Temperature unit selection (°C/°F)
+
+News category preferences
+
+Location services
+
+
+# ScreensShots
+
+![Home Screen](assets/screenshots/HomeScreen.png)
+
+
+![Home Screen](assets/screenshots/HomeScreen-2.png)
+
+
+![Home Screen](assets/screenshots/SettingsScreen.png)
+
+
+# Installation
+
+## Prerequisites
+
+Node.js (v16 or later)
+
+npm or yarn
+
+React Native CLI
+
+Android Studio/Xcode (for emulator/simulator)
+
+# Setup
+
+## Clone the repository:
+
+``` 
+git clone https://github.com/ANBUKALKI/Weather_and_News_app_React_Native.git
+
+cd Weather_and_News_app_React_Native
+```
+
+## Install dependencies:
+
+```
+npm install
+# or
+yarn install
+```
+
+# Running the App
+
+```
+npx react-native run-android
+```
+
+# Technical Stack
+Frontend: React Native
+
+State Management: Redux Toolkit
+
+Navigation: React Navigation
+
+APIs:
+
+OpenWeatherMap API (weather data)
+
+NewsAPI (news headlines)
+
+Location Services: react-native-geolocation-service
+
+
+# Acknowledgments
+OpenWeatherMap for weather data API
+
+NewsAPI for news headlines API
+
+React Native community for awesome tools and libraries
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
