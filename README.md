@@ -34,12 +34,12 @@ Location services
 
 # ScreensShots
 
-![Image](https://github.com/user-attachments/assets/9fc92589-46e2-4bae-88fd-04674e6fbcbc)
+![HomeScreen](https://github.com/user-attachments/assets/9fc92589-46e2-4bae-88fd-04674e6fbcbc)
 
 
-![Image](https://github.com/user-attachments/assets/38f5de83-8586-475f-9a3c-280cd284ba11)
+![HomeScreen](https://github.com/user-attachments/assets/38f5de83-8586-475f-9a3c-280cd284ba11)
 
-![Image](https://github.com/user-attachments/assets/dbbb6f2b-24e6-4518-bbf7-0e609f34285d)
+![SettingsScreen](https://github.com/user-attachments/assets/dbbb6f2b-24e6-4518-bbf7-0e609f34285d)
 
 
 # Installation
